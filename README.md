@@ -15,7 +15,7 @@ This project is an application where you can see all albums and create orders.
 
   ![image](https://github.com/user-attachments/assets/bc988130-ee94-4aff-a99b-5a32af778eb9)
 
-  Some page in the project;
+  Some pages in the project;
 
   ![image](https://github.com/user-attachments/assets/13e07e7b-67d7-4d41-83b7-a4d45341e6e9) ![image](https://github.com/user-attachments/assets/56c6de67-1e77-48e5-9069-a7e8def012e4)
 
